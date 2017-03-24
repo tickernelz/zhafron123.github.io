@@ -3,6 +3,7 @@
                 //Navigation
                 menu: '#menu',
                 lockAnchors: false,
+                anchors: ['menu', 'home', 'tarif'],
                 navigation: true,
                 navigationPosition: 'right',
                 navigationTooltips: [],
